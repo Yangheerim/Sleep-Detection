@@ -19,7 +19,11 @@ You can see how dangerous driving while drowsy is.
 <br>
 
 ### Demo
+If an eye close is detected for more than three seconds, it is judged to be drowsy and gives the driver a red LED and a warning tone.<br>
+And informs the surrounding vehicles of danger with yellow LEDs.<br><br>
+[![Demo](https://img.youtube.com/vi/lXuZ4zk9Pto/0.jpg)](https://youtu.be/lXuZ4zk9Pto) 
 
+<br>
 
 ### Implementation
 
