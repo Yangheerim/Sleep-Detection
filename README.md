@@ -65,4 +65,7 @@ And informs the surrounding vehicles of danger with yellow LEDs.<br><br>
 - CO2 concentration measurement
 - Provides sleep shelter location and navigation
 - Posture estimation
+<br>
 
+### Reference
+https://github.com/tahaemara/sleep-detection
